@@ -36,6 +36,12 @@ module.exports = (content, port, option) => {
                     console.log(`console.log in http://${ip.address()}:${port}`);
                 })();
             });
+        } else {
+            if (err){
+                console.log(err);
+            } else {
+                console.log(`port ${_port} in use, please set a not used port`);
+            }
         }
     });
 };

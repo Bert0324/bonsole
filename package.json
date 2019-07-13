@@ -1,6 +1,6 @@
 {
   "name": "bonsole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Console.log Node.JS data in browsers",
   "main": "bonsole.js",
   "scripts": {
