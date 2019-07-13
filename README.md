@@ -1,4 +1,4 @@
-# Console.log result showed in the browser
+# Console.log result in the browser
 
 Browsers' console is so powerful and easy to debug compared to node command line. 
 So quickly use bonsole to see console.log results in browser!
