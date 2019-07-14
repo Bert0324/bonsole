@@ -1,8 +1,8 @@
 {
   "name": "bonsole",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Asynchonize console.log Node.JS data  in browsers",
-  "main": "bonsole.js",
+  "main": "lib/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
