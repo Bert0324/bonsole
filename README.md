@@ -2,7 +2,7 @@
 
 Browsers' console is so powerful and easy to debug compared to node command line. It can also work for Linux, to open on PC in the same LAN.
 
-Besides, it can asynchonizely console.log data from Node.JS in browser base on Socket.IO.
+Besides, it can Synchonizely console.log data from Node.JS in browser base on Socket.IO.
 
 So quickly use bonsole to see console.log results in browser!
 
