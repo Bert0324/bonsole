@@ -1,17 +1,18 @@
 {
   "name": "bonsole",
-  "version": "1.0.1",
-  "description": "Console.log Node.JS data in browsers",
+  "version": "1.0.2",
+  "description": "Asynchonize console.log Node.JS data  in browsers",
   "main": "bonsole.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bert",
+  "author": "Bert Huang",
   "license": "MIT",
-  "dependencies":{
-    "detect-port": "^1.3.0",
+  "dependencies": {
+    "ip": "^1.1.5",
     "open": "^6.4.0",
-    "ip": "^1.1.5"
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
   },
   "repository": {
     "type": "git",
