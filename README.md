@@ -1,6 +1,9 @@
 # Console.log result in the browser
 
 Browsers' console is so powerful and easy to debug compared to node command line. It can also work for Linux, to open on PC in the same LAN.
+
+Besides, it can asynchonizely console.log data from Node.JS in browser base on Socket.IO.
+
 So quickly use bonsole to see console.log results in browser!
 
 
@@ -15,6 +18,10 @@ npm i --save-dev bonsole
 ```JavaScript
 const bonsole = require('bonsole');
 bonsole({a:1});
+
+setTimeout(()=>{
+    bonsole({b:2})
+}, 5000);
 ```
 
 ## Options
