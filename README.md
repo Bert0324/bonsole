@@ -1,7 +1,8 @@
 # Console.log result in the browser
 
-Browsers' console is so powerful and easy to debug compared to node command line. 
+Browsers' console is so powerful and easy to debug compared to node command line. It can also work for Linux, to open on PC in the same LAN.
 So quickly use bonsole to see console.log results in browser!
+
 
 ## Install
 
